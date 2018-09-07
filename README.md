@@ -1,5 +1,7 @@
 # Identidade, imutabilidade e _"coisas aleatórias"_
 
+_Classroom link:_ <https://classroom.github.com/a/hG74bbWL>
+
 ## Modelar e implementar respeitando os princípios de Orientação a Objetos
 
 [strong, firm, focus, always concentrate ...](http://youtu.be/PWiipjG7NEU)
@@ -11,7 +13,7 @@
 - imutabilidade
 - sobrecarga
 
-#### Prazo: 2018-09-24 Peso: 1.0 pts
+#### Prazo: 2018-09-23 Peso: 1.0 pts
 
 **Restrição: não podem ser usadas as bibliotecas do Java, por exemplo, a classe `Math`, `Scanner`, etc, inclusive os métodos de Integer, como `parseInt` ou métodos de String, EXCETO `length`, `charAt` e `equals`; Os Casos de Teste podem ser corrigidos, mas a especificação não pode ser alterada.**
 
